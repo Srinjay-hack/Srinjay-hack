@@ -1,4 +1,4 @@
-### Hi there I am Srinjay!👋
+## Hi there I am Srinjay!👋
 
 - 🔭 I’m currently working on Machine Learning and DeepLearning projects
 - 🌱 I’m currently learning Tensorflow
@@ -22,10 +22,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 
-
-<a href="https://github.com/Srinjay-hack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinjay-hack&theme=dark&hide_langs_below=1" />
-</a> <br>
 <a href="https://github.com/Srinjay-hack">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srinjay-hack&show_icons=true&theme=dark&line_height=27" alt="My's github stats"/>
 </a> <br>

@@ -1,4 +1,4 @@
-## Hey there I am Srinjay!👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srinjay</h1>
 
 - 🔭 I’m currently working on Machine Learning and DeepLearning projects
 - 🌱 I’m currently learning Tensorflow

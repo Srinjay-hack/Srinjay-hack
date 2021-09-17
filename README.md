@@ -9,7 +9,8 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: LOL. 
 
-<img src="https://komarev.com/ghpvc/?username=Srinjay-hack" alt="srinjay" />
+
+[[!Views: srinjay_kr](https://komarev.com/ghpvc/?username=Srinjay-hack)]
 [![Twitter: srinjaykr_](https://img.shields.io/twitter/follow/srinjaykr_?style=social)](https://twitter.com/srinjaykr_)
 [![Linkedin: srinjay_kr](https://img.shields.io/badge/-srinjay_k-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srinjay-mondal/)](https://www.linkedin.com/in/srinjay-mondal-464733192/)
 [![GitHub Srinjay-hack](https://img.shields.io/github/followers/Srinjay-hack?label=follow&style=social)](https://github.com/Srinjay-hack)

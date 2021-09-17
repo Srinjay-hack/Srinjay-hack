@@ -1,4 +1,4 @@
-## Hi there I am Srinjay!👋
+## Hey there I am Srinjay!👋
 
 - 🔭 I’m currently working on Machine Learning and DeepLearning projects
 - 🌱 I’m currently learning Tensorflow

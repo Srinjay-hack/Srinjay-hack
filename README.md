@@ -7,7 +7,11 @@
 - 💬 Ask me about Don't Ask!!
 - 📫 How to reach me: [Twitter - @srinjaykr_](https://twitter.com/srinjaykr_)
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: Sleep in my dreams. 
+- ⚡ Fun fact: LOL. 
+
+[![Twitter: srinjaykr_](https://img.shields.io/twitter/follow/srinjaykr_?style=social)](https://twitter.com/srinjaykr_)
+[![Linkedin: srinjay_kr](https://img.shields.io/badge/-srinjay_k-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srinjay-mondal/)](https://www.linkedin.com/in/srinjay-mondal-464733192/)
+[![GitHub Srinjay-hack](https://img.shields.io/github/followers/Srinjay-hack?label=follow&style=social)](https://github.com/Srinjay-hack)
 
 
 **Languages and Tools:**  
@@ -16,6 +20,4 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="50" src="https://www.google.com/search?q=machine+learning&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjNkanNwobzAhXd8HMBHRfQCKMQ_AUoAnoECAIQBA&biw=1562&bih=736&dpr=0.88#imgrc=x_IPwuDmD3kmrM"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 

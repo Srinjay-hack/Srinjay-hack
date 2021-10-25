@@ -1,5 +1,8 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srinjay</h1>
 
+
+![Alt Text](https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk)
+
 - 🔭 I’m currently working on Machine Learning and DeepLearning projects
 - 🌱 I’m currently learning Tensorflow
 - 👯 I’m looking to collaborate with startup ideas.

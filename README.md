@@ -34,7 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinjay-hack&layout=compact)](https://github.com/Srinjay_hack/github-readme)
 
 <a href="https://github.com/Srinjay-hack">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srinjay-hack&show_icons=true&theme=dark&line_height=27" alt="My's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Srinjay-hack&show_icons=true&theme=dark&line_height=27" alt="My's github stats"/>
 </a> <br>
 
 ![Alt Text](https://s6.gifyu.com/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f434151427849347142314f385a63494e52432f67697068792e676966.gif)

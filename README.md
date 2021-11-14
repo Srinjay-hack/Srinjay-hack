@@ -31,6 +31,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/gif/golang_color.gif"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinjay_hack&layout=compact)](https://github.com/Srinjay_hack/github-readme-stats)
 
 <a href="https://github.com/Srinjay-hack">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srinjay-hack&show_icons=true&theme=dark&line_height=27" alt="My's github stats"/>

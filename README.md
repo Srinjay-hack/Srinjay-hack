@@ -1,13 +1,11 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srinjay</h1>
 
-- 🔭 I’m currently working on Machine Learning and DeepLearning projects
-- 🌱 I’m currently learning Tensorflow
-- 👯 I’m looking to collaborate with startup ideas.
+- 🔭 I’m currently working on Machine Learning and Blockchain projects.
+- 🌱 I’m currently learning Solidity.
 - 🤔 I’m looking to get internships.
 - 💬 Ask me about consistency!!
 - 📫 How to reach me: [Twitter - @srinjaykr_](https://twitter.com/srinjaykr_)
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: LOL. 
+- 😄 Pronouns: He/His. 
 
 
 <img src="https://komarev.com/ghpvc/?username=Srinjay-hack" alt="srinjay" />

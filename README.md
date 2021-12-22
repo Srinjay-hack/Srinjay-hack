@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Machine Learning and Blockchain projects.
 - 🌱 I’m currently learning Solidity.
 - 🤔 I’m looking to get internships.
-- 💬 Ask me about consistency!!
+- 💬 Ask me about Data Structures, C++ and Python.
 - 📫 How to reach me: [Twitter - @srinjaykr_](https://twitter.com/srinjaykr_)
 - 😄 Pronouns: He/His. 
 

@@ -7,11 +7,10 @@
 - 😄 Pronouns: He/His. 
 
 
-<img src="https://komarev.com/ghpvc/?username=Srinjay-hack" alt="srinjay" />
 
 
 
-**Languages and Tools:**  
+<!-- **Languages and Tools:**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://github.com/ConsenSysMesh/solidity-logo/blob/master/solidity-logo.svg"></code>
@@ -28,6 +27,6 @@
 <a href="https://github.com/Srinjay-hack">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Srinjay-hack&show_icons=true&theme=dark&line_height=27" alt="My's github stats"/>
 
-</a> <br>
+</a> <br> -->
 
 ![Alt Text](https://s6.gifyu.com/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f434151427849347142314f385a63494e52432f67697068792e676966.gif)

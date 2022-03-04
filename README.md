@@ -1,18 +1,14 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srinjay</h1>
 
-- 🔭 I’m currently working on Machine Learning and Blockchain projects.
-- 🌱 I’m currently learning Solidity.
+- 🔭 I’m currently working on Data Structures and Machine Learning.
+- 🌱 I’m currently learning Graphs.
 - 🤔 I’m looking to get internships.
 - 💬 Ask me about Data Structures, C++ and Python.
-- 📫 How to reach me: [Twitter - @srinjaykr_](https://twitter.com/srinjaykr_)
 - 😄 Pronouns: He/His. 
 
 
 <img src="https://komarev.com/ghpvc/?username=Srinjay-hack" alt="srinjay" />
 
-[![Twitter: srinjaykr_](https://img.shields.io/twitter/follow/srinjaykr_?style=social)](https://twitter.com/srinjaykr_)
-[![Linkedin: srinjay_kr](https://img.shields.io/badge/-srinjay_k-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srinjay-mondal/)](https://www.linkedin.com/in/srinjay-mondal-464733192/)
-[![GitHub Srinjay-hack](https://img.shields.io/github/followers/Srinjay-hack?label=follow&style=social)](https://github.com/Srinjay-hack)
 
 
 **Languages and Tools:**  

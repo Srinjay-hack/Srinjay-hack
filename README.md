@@ -1,9 +1,9 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srinjay</h1>
 
-- 🔭 I’m currently working on Data Structures and Machine Learning.
+- 🔭 I’m currently working on Data Structures and CryptoGraphy.
 - 🌱 I’m currently learning Graphs.
-- 🤔 I’m looking to get internships.
-- 💬 Ask me about Data Structures, C++ and Python.
+- 🤔 I’m doing to get internships.
+- 💬 Ask me about Data Structures, C++ and GoLang.
 - 😄 Pronouns: He/His. 
 
 
